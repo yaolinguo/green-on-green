@@ -11,8 +11,9 @@ satellite imagery in Google Earth.
 This dataset supports the following manuscript:
 
 Zhang Y., Guo Y., Yang S., Pennings S.C. Green-on-green conflicts between
-ecological and energy engineering along China's coast. Communications
-Sustainability.
+ecological and energy engineering along China's coast.
+
+*Communications Sustainability*
 
 Corresponding author: Yaolin Guo (yaolinguo22@gmail.com)
 
@@ -53,40 +54,3 @@ No automated classification was used. The procedure was as follows:
    manually as a polygon, and the enclosed area was measured with the built-in
    geodesic area (ruler / measurement) tool in Google Earth and recorded in
    hectares.
-
-Coordinates are reported in the WGS84 geographic coordinate system, which is the
-Google Earth default.
-
-## Temporal and spatial coverage
-
-- **Temporal:** the compilation reflects installations that were visible or
-  constructed as of 2025, based on the most recent imagery available in Google
-  Earth at the time of compilation.
-- **Spatial:** coastal provinces and regions of China. The 12 provinces/regions
-  represented are Fujian, Guangdong, Guangxi, Hainan, Hebei, Jiangsu, Liaoning,
-  Shandong, Shanghai, Taiwan, Tianjin, and Zhejiang.
-
-## Summary statistics
-
-- 166 installations across 12 provinces/regions.
-- Longitude range: 108.11 to 122.36 degrees E.
-- Latitude range: 18.52 to 40.07 degrees N.
-- Footprint area: 0.91 to 4833.00 ha (median 105.00 ha).
-- Total mapped footprint of the 166 installations: approximately 39,369 ha.
-
-## Notes and limitations
-
-- `Longitude` and `Latitude` give a representative point located on each
-  installation; they are not precise geometric centroids.
-- `Area_ha` values are manual estimates derived from visual delineation and carry
-  interpretation and imagery-date uncertainty. Boundaries of very large or
-  fragmented arrays are approximate.
-- The inventory reflects imagery available at the time of compilation and may omit
-  very recent, very small, partially obscured, or under-construction
-  installations.
-- The reported precision (coordinates to 4 decimal places, about 10 m; area to 2
-  decimal places) reflects reporting precision, not measurement accuracy.
-
-## License
-
-To be set on deposit (for example, CC BY 4.0).
