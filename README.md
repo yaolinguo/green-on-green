@@ -4,25 +4,23 @@ This dataset provides the geographic locations and mapped footprint areas of
 intertidal and nearshore solar photovoltaic (PV) installations along the coast
 of China. Each record corresponds to one PV installation. The dataset was
 compiled by the authors through manual visual interpretation of high-resolution
-satellite imagery in Google Earth. It is the source data underlying Figure 1b of
-the associated manuscript.
+satellite imagery in Google Earth.
 
 ## Associated publication
 
 This dataset supports the following manuscript:
 
 Zhang Y., Guo Y., Yang S., Pennings S.C. Green-on-green conflicts between
-ecological and energy engineering along China's coast. (Add journal and DOI upon
-publication.)
+ecological and energy engineering along China's coast. Communications
+Sustainability.
 
 Corresponding author: Yaolin Guo (yaolinguo22@gmail.com)
 
 ## File
 
-- File name: `China_coastal_PV_area.xlsx`
+- File name: `Raw data - 0703.xlsx`
 - Worksheet: `PV_sites`
 - Records: 166 installations
-- Missing values: none
 
 ## Column definitions
 
