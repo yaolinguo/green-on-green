@@ -19,8 +19,6 @@ Corresponding author: Yaolin Guo (yaolinguo22@gmail.com)
 ## File
 
 - File name: `Raw data - 0703.xlsx`
-- Worksheet: `PV_sites`
-- Records: 166 installations
 
 ## Column definitions
 
