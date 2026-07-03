@@ -1,5 +1,3 @@
-# Intertidal photovoltaic (PV) installations along the coast of China
-
 ## Overview
 
 This dataset provides the geographic locations and mapped footprint areas of
