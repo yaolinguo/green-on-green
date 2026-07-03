@@ -10,8 +10,7 @@ satellite imagery in Google Earth.
 
 This dataset supports the following manuscript:
 
-Zhang Y., Guo Y., Yang S., Pennings S.C. Green-on-green conflicts between
-ecological and energy engineering along China's coast.
+Youzheng Zhang, Yaolin Guo, Sen Yang, Steven C. Pennings. Green-on-green conflicts between ecological and energy engineering along China's coast.
 
 *Communications Sustainability*
 
